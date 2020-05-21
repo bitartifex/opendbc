@@ -238,6 +238,7 @@ BO_ 1170 EMS19: 8 EMS
  SG_ CR_Ems_EngOilTemp : 32|8@1+ (0.75,-40.0) [0.0|254.0] "deg"  CLU,IBOX
  SG_ DPF_LAMP_STAT : 40|2@1+ (1.0,0.0) [0.0|3.0] ""  CLU,IBOX
  SG_ BAT_LAMP_STAT : 42|1@1+ (1.0,0.0) [0.0|1.0] ""  CLU,IBOX
+ SG_ CF_Ems_GearMT : 43|3@1+ (1.0,0.0) [0.0|7.0] ""  CLU
  SG_ CF_Ems_ModeledAmbTemp : 48|8@1+ (0.5,-41.0) [-41.0|85.5] "deg"  AAF,IBOX
  SG_ CF_Ems_OPSFail : 56|1@1+ (1.0,0.0) [0.0|1.0] ""  CLU,IBOX
  SG_ CF_Ems_AliveCounterEMS9 : 58|2@1+ (1.0,0.0) [0.0|3.0] ""  AAF,ABS,CUBIS,ECS,EPB,IBOX,MDPS,REA,SCC,SMK,TCU
